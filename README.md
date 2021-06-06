@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yadnik Thorat
 - 👀 I’m interested in Learning new variations in coding and include them in my projects to make them simple and easy.
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Machine Learning 
 
 <!---
 YadnikThorat/YadnikThorat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
